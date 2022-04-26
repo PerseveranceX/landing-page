@@ -221,6 +221,8 @@ section.visible .landing__container::after {
     }
 }
 
+/* To top button styles */
+
 .to-top {
     background-color: transparent;
     color: white;
