@@ -22,4 +22,4 @@ It has back to top button
 You can dynamically add sections into the page using a CMS or an API, and it will automatically add a navigation link to them.
 
 ## Live link
- [Live link](perseverancex)
+ [Live link](https://perseverancex.github.io/landing-page/)
